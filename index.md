@@ -1,1 +1,1 @@
-<a href="intent://session#Intent;scheme=https;package=net.tobelive.tobelive;end">TEST2: SESSION</a>
+<a href="intent://mmoreti.github.io/session#Intent;scheme=https;package=net.tobelive.tobelive;end">TEST3: SESSION</a>
