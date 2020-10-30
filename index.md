@@ -1,3 +1,1 @@
-TEST2
-
 <a href="intent://session/#Intent;scheme=tobelive;package=net.tobelive.tobelive;end">SESSION</a>
