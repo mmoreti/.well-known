@@ -1,1 +1,26 @@
-aaa
+[
+    {
+        "relation": [
+            "delegate_permission/common.handle_all_urls"
+        ],
+        "target": {
+            "namespace": "android_app",
+            "package_name": "net.tobelive.tobelive.tobelive",
+            "sha256_cert_fingerprints": [
+              "24:17:A2:EE:DD:A3:17:F9:DF:D3:18:B0:46:BC:ED:E4:DC:E5:C0:C2:47:06:DC:09:B2:75:89:A1:70:7F:33:38"
+            ]
+        }
+    },
+    {
+        "relation": [
+            "delegate_permission/common.handle_all_urls"
+        ],
+        "target": {
+            "namespace": "android_app",
+            "package_name": "net.tobelive.tobelive.masterlive",
+            "sha256_cert_fingerprints": [
+              "24:17:A2:EE:DD:A3:17:F9:DF:D3:18:B0:46:BC:ED:E4:DC:E5:C0:C2:47:06:DC:09:B2:75:89:A1:70:7F:33:38"
+            ]
+        }
+    }
+]
