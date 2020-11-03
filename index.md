@@ -7,3 +7,6 @@
 <br>
 <br>
 <a href="https://develop.2belive.2belive.net/auth/sign-up/test@2mundos.net">TEST4: SESSION</a>
+<br>
+<br>
+<a href="https://develop.2belive.2belive.net/mpm/auth/sign-up/test@2mundos.net">TEST5: SESSION</a>
