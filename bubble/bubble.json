@@ -1,0 +1,16 @@
+{
+	"spriteSheetJsonName": "assets/animations/bubble/bubble.ss.json",
+	"spriteSheetImageName": "assets/animations/bubble/bubble.png",
+	"audioName": "animations/bubble/bubble.mp3",
+	"nodeWidth": 128.0,
+	"nodeHeight": 128.0,
+	"containerWidth": 60.0,
+	"containerHeight": 60.0,
+	"scale": 2.0,
+	"frameRate": 5.0,
+	"offsetX": 0.0,
+	"offsetY": 0.0,
+	"textureNamePrefix": "frame",
+	"textureFirstIndex": 0,
+	"audioBasedFrameRate": true
+}
